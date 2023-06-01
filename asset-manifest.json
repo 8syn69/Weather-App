@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/weather-app/static/css/main.f5afafc3.chunk.css",
+    "main.js": "/weather-app/static/js/main.8ad1c281.chunk.js",
+    "main.js.map": "/weather-app/static/js/main.8ad1c281.chunk.js.map",
+    "runtime~main.js": "/weather-app/static/js/runtime~main.4606d7f5.js",
+    "runtime~main.js.map": "/weather-app/static/js/runtime~main.4606d7f5.js.map",
+    "static/js/2.b0d4d72d.chunk.js": "/weather-app/static/js/2.b0d4d72d.chunk.js",
+    "static/js/2.b0d4d72d.chunk.js.map": "/weather-app/static/js/2.b0d4d72d.chunk.js.map",
+    "index.html": "/weather-app/index.html",
+    "precache-manifest.123c0e8d89bc3c73db742107beebb92d.js": "/weather-app/precache-manifest.123c0e8d89bc3c73db742107beebb92d.js",
+    "service-worker.js": "/weather-app/service-worker.js",
+    "static/css/main.f5afafc3.chunk.css.map": "/weather-app/static/css/main.f5afafc3.chunk.css.map",
+    "static/media/index.css": "/weather-app/static/media/blur-background-1187974.df959cc6.jpg",
+    "static/media/weather-icons.css": "/weather-app/static/media/weathericons-regular-webfont.ecaf8b48.svg"
+  }
+}
